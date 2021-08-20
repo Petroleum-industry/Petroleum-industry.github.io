@@ -8,14 +8,20 @@ Million barrels during 25 years however these predictions couldn’t be any furt
 
 In this study and after data analysis of the production we find that:
 •	The density of fractures is the main reason for the gas breakthrough.
+
 •	The main reason behind the failure is the complete lack of understanding of the fractures and the inability to model them in 3D.
+
 •	The main causes of breakthrough are the high density of the natural fractures and the high MMP of the miscible gas injected (METHANE: 420 barg).
+
 •	After the breakthrough the injected gas traces its paths in the medium porous in addition to the higher mobility of gases refers to liquids, the oil gets trapped inside the matrix blocks.
+
 •	In one time the only solution after the failure of miscible injection project gas recycling was the only economical existing solution due to availability of the gas.
+
 •	Due to the increase of gas demand in winter, an economical recovery was adapted in similar high GOR NFRs to overcome this worldwide gas demand called by seasonal gas injection:
 
-    - This kind of recovery is based off injecting the minimum optimum rates in winter and recycling all the produced associated gas in the rest of the year.
-    - A gain of oil production was registered after the winter in refers of what was predicted. This phenomenon is due to the draw down from the matrix to the fracture after decrease of fracture pressures
+   - This kind of recovery is based off injecting the minimum optimum rates in winter and recycling all the produced associated gas in the rest of the year.
+   - 
+   - A gain of oil production was registered after the winter in refers of what was predicted. This phenomenon is due to the draw down from the matrix to the fracture after decrease of fracture pressures
 	
 • Nowadays REB reservoirs it’s a case study of chemical Enhanced oil recovery with polymers and surfactants (this project is at laboratory level), the pandemic, the low oil prices and the uncertainty of the results are the main reasons for the delay of this project.
 
