@@ -19,9 +19,9 @@ In this study and after data analysis of the production we find that:
 
 •	Due to the increase of gas demand in winter, an economical recovery was adapted in similar high GOR NFRs to overcome this worldwide gas demand called by seasonal gas injection:
 
-   - This kind of recovery is based off injecting the minimum optimum rates in winter and recycling all the produced associated gas in the rest of the year.
-   - 
-   - A gain of oil production was registered after the winter in refers of what was predicted. This phenomenon is due to the draw down from the matrix to the fracture after decrease of fracture pressures
+    - This kind of recovery is based off injecting the minimum optimum rates in winter and recycling all the produced associated gas in the rest of the year.
+   
+    - A gain of oil production was registered after the winter in refers of what was predicted. This phenomenon is due to the draw down from the matrix to the fracture after decrease of fracture pressures
 	
 • Nowadays REB reservoirs it’s a case study of chemical Enhanced oil recovery with polymers and surfactants (this project is at laboratory level), the pandemic, the low oil prices and the uncertainty of the results are the main reasons for the delay of this project.
 
