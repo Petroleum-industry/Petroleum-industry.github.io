@@ -1,6 +1,6 @@
-#Effect of the natural fracture reservoirs in the selection of the Enhanced Oil Recovery mechanism: Rhourde El Baguel reservoir-case.
+# Effect of the natural fracture reservoirs in the selection of the Enhanced Oil Recovery mechanism: Rhourde El Baguel reservoir-case.
 
-##By: Ramzi Aouacheria 
+## By: Ramzi Aouacheria 
 Naturally fractured reservoirs are complex media and difficult to understand because of the peculiarity of the duality of matrix-crack media, cracks through which the fluid flows towards the well bottom have totally different characteristics to that of the matrix blocks in which the fluid is stored, the naturally fractured reservoirs are characterized by an enormous drop in production following a period of production with high flow rates..The detection of the presence of fractures in the reservoirs is done by several techniques or well testing is one such technique. The need for improved recovery techniques (EOR) is very necessary following the huge drop in production in fractured reservoirs, but the choice of which EOR mode to apply is very difficult.In Algeria the Rhourde El baguel reservoir (REB) is one of the naturally fractured reservoirs and its production has experienced a huge drop following the application of massive gas injection to achieve miscibility.The aim of this work is to do an analytical study to derive conclusions to aid in the selection of enhanced or enhanced recovery mode to increase the rate of oil recovery (the ultimate oil recovery).
 First of all an enhanced oil recovery application principally targets to minimize the residual oil in the matrix once the primary and secondary recovery are both ineffective as for the EOR methods we have chemical flooding, thermal and miscibility Which is the one done in REB.
 
